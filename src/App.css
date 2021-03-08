@@ -1,0 +1,23 @@
+.App {
+  text-align: left;
+  padding: 0px;
+  margin: 0px;
+}
+
+.wrapper {
+  display: grid;
+}
+
+#header {
+  background-color: #61dafb;
+  color: white;
+  font-size: 33vh;
+}
+
+.rows{
+  padding: 20px;
+  font-size: 20vh;
+  font-family: 'Roboto';
+  color: grey;
+}
+
